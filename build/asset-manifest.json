@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/site_julien/static/css/main.dfdabe4f.css",
-    "main.js": "/site_julien/static/js/main.dbe749c1.js",
-    "static/media/pexels-fauxels-3183197.jpg": "/site_julien/static/media/pexels-fauxels-3183197.fc27001366a7290ac9e9.jpg",
-    "static/media/abstract-geometric-computer-wallpaper-white-border-connecting-dots-digital-technology-vector-design.jpg": "/site_julien/static/media/abstract-geometric-computer-wallpaper-white-border-connecting-dots-digital-technology-vector-design.39d5e9bcbef92ec09cfd.jpg",
-    "static/media/pexels-pixabay-414837.jpg": "/site_julien/static/media/pexels-pixabay-414837.bf538bce235f68b24e4d.jpg",
-    "static/media/Julien.png": "/site_julien/static/media/Julien.f19c46e6169e23f4bbb2.png",
-    "static/media/9019796.jpg": "/site_julien/static/media/9019796.1a6a80da5788e6f6d7bc.jpg",
-    "static/media/4931029.jpg": "/site_julien/static/media/4931029.6183dad59b531f072b5f.jpg",
-    "static/media/CV_Julien.pdf": "/site_julien/static/media/CV_Julien.5dc981f6bcff18996aeb.pdf",
-    "static/media/project-management.png": "/site_julien/static/media/project-management.e0da2530164713549545.png",
-    "index.html": "/site_julien/index.html",
-    "main.dfdabe4f.css.map": "/site_julien/static/css/main.dfdabe4f.css.map",
-    "main.dbe749c1.js.map": "/site_julien/static/js/main.dbe749c1.js.map"
+    "main.css": "/static/css/main.a58951f6.css",
+    "main.js": "/static/js/main.d283762e.js",
+    "static/media/pexels-fauxels-3183197.jpg": "/static/media/pexels-fauxels-3183197.fc27001366a7290ac9e9.jpg",
+    "static/media/pexels-pixabay-414837.jpg": "/static/media/pexels-pixabay-414837.bf538bce235f68b24e4d.jpg",
+    "static/media/Julien.png": "/static/media/Julien.f19c46e6169e23f4bbb2.png",
+    "index.html": "/index.html",
+    "main.a58951f6.css.map": "/static/css/main.a58951f6.css.map",
+    "main.d283762e.js.map": "/static/js/main.d283762e.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfdabe4f.css",
-    "static/js/main.dbe749c1.js"
+    "static/css/main.a58951f6.css",
+    "static/js/main.d283762e.js"
   ]
 }
